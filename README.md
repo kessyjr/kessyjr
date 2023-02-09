@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kessyjr
-- 👀 I’m interested in fintech, ecommerce and wordpress
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on fintech applications
+- 👀 I’m interested in fintech, data science, ecommerce and wordpress
+- 💞️ I’m looking to collaborate on fintech, data science and ecommerce applications
 - 📫 How to reach me: twitter @miamiatz
 
 <!---
